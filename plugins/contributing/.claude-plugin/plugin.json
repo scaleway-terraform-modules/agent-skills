@@ -1,0 +1,11 @@
+{
+  "name": "contributing",
+  "version": "0.1.0",
+  "description": "Discover, refine and implement changes in scaleway-terraform-modules repositories.",
+  "author": {
+    "name": "scaleway-terraform-modules"
+  },
+  "homepage": "https://github.com/scaleway-terraform-modules/agent-skills",
+  "repository": "https://github.com/scaleway-terraform-modules/agent-skills",
+  "license": "MPL-2.0"
+}
